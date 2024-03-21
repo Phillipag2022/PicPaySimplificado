@@ -2,7 +2,7 @@
 
 Instalação:
 
-1. Clone the repository:
+1. Clone o repositorio:
 
 https://github.com/Phillipag2022/PicPaySimplificado.git
 
